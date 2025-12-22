@@ -1,9 +1,4 @@
-## Hi there 👋
-
-<!--
-**JoseVictorRodrigues/JoseVictorRodrigues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:# 👋 Hi, I'm Jose Victor Rodrigues
+👋 Hi, I'm Jose Victor Rodrigues
 
 I'm starting my journey in cybersecurity, focusing on ethical hacking
 and security fundamentals.
