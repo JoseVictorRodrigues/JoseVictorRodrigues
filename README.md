@@ -1,3 +1,6 @@
+I am a motivated and detail-oriented aspiring cybersecurity professional with a strong interest in identifying risks, threats, and vulnerabilities. My interest in cybersecurity was shaped by personal experiences as a victim of online scams, where I felt the impact of security failures and the absence of adequate protection, motivating me to help prevent similar harm to others. I value integrity, ethical responsibility, and continuous learning, and I aim to support organizations by maintaining a strong security posture and protecting sensitive information and people.
+
+
 👋 Hi, I'm Jose Victor Rodrigues
 
 I'm starting my journey in cybersecurity, focusing on ethical hacking
